@@ -97,3 +97,8 @@ Visualizations make the results easier to interpret and present to stakeholders.
 
 8. Conclusion
 This project demonstrates how scalable tools like Dask can simplify and enhance large-scale data analysis. By combining data filtering, aggregation, and visualization, the notebook presents a complete analytical pipeline suitable for real-world business scenarios. The outcome is a robust, efficient, and insightful exploration of sales data, providing a foundation for smarter business decisions.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6e6d767d-550c-4168-9133-97c65d9da257)
+![Image](https://github.com/user-attachments/assets/7ef26d0b-e75a-4207-ab18-7fb89e76cc9a)
